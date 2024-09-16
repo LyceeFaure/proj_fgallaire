@@ -1,2 +1,2 @@
 print("OK")
-seconde
+print("seconde")
